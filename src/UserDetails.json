@@ -1,0 +1,35 @@
+{
+    "users": [
+        {
+          "username": "user1",
+          "password": "password1",
+          "usertype": "customer"
+        },
+        {
+          "username": "user2",
+          "password": "password2",
+          "usertype": "storeManager"
+        },
+        {
+          "username": "user3",
+          "password": "password3",
+          "usertype": "salesManager"
+        },
+        {
+            "username": "test1",
+            "password": "123",
+            "usertype": "customer"
+        },
+        {
+            "username": "test2",
+            "password": "123",
+            "usertype": "customer"
+        },
+        {
+            "username": "user_storagemanager",
+            "password": "123",
+            "usertype": "storeManager"
+        }
+
+      ]
+  }

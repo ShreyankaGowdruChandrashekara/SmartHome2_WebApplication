@@ -1,0 +1,18 @@
+{
+    "orders": [
+      {
+        "orderid": 1,
+        "items": [
+          {"userName": "user1", "orderName": "Echo Dot (5th Gen, 2022 release) with clock", "orderPrice": 59.99, "firstName": "test", "creditCardNo": 7456},
+          {"userName": "user1", "orderName": "Google - Nest Learning Smart Wifi Thermostat", "orderPrice": 249.99, "firstName": "test", "creditCardNo": 7456}
+        ]
+      },
+      {
+        "orderid": 2,
+        "items": [
+          {"userName": "test2", "orderName": "Echo Dot (5th Gen, 2022 release) with clock", "orderPrice": 59.99, "firstName": "test2", "creditCardNo": 1235}
+        ]
+      }
+    ]
+}
+  
